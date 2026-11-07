@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\qres\QRes.exe" /x:1920 /y:1080 /r:144
